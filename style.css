@@ -273,4 +273,456 @@ header>nav>div>h1 {
 
 .bold-font {
     font-size: 48px;
-    font-weight
+    font-weight: 900;
+}
+
+.run-img-box {
+
+
+    width: 366px;
+    height: 312px;
+    border-radius: 15px;
+
+
+
+}
+
+
+
+.section-of-bmi {
+    color: white;
+    background: rgb(34, 34, 34);
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+
+    padding: 52px 189px;
+    margin: 0px;
+
+}
+
+#text {
+
+    font-size: 48px;
+
+}
+
+#text1 {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.BMI-Top {
+
+    margin-top: 80px;
+    margin-bottom: 80px;
+    text-align: start;
+    margin-left: 400px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.Calculator {
+
+    color: white;
+
+}
+
+table {
+    border-collapse: collapse;
+
+    width: 310px;
+    height: 216px;
+    margin-top: 50px;
+
+
+}
+
+.form-of-BMI {}
+
+input,
+select {
+    border-radius: 8px;
+
+    background: rgba(255, 255, 255, 0.1);
+    color: rgba(255, 255, 255, 0.6);
+}
+
+td {
+
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 5px;
+
+}
+
+.body-text-color {
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 14px;
+}
+
+.head-text-color {
+
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.clr {
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    border-radius: 15px;
+    font-size: 16px;
+
+
+
+
+    line-height: 50px;
+    width: 450px;
+
+}
+
+.box {
+
+    height: 40px;
+    width: 200px;
+    padding-left: 20px;
+
+    margin-left: 10px;
+    border: 5px solid rgb(34, 34, 34);
+    border-radius: 15px;
+}
+
+.box2 {
+    height: 50px;
+    width: 221px;
+    margin-left: 5px;
+    border: 5px solid rgb(34, 34, 34);
+    padding-left: 20px;
+    color: rgba(255, 255, 255, 0.268);
+    border-radius: 15px;
+}
+
+#forcebox {
+
+    margin-left: -228px;
+}
+
+#forcebox2 {
+
+    margin-left: -228px;
+    width: 229px;
+
+}
+
+.box3 {
+    margin-left: 10px;
+    width: 455px;
+}
+
+.BMI_text {
+
+    margin-left: 15px;
+    margin-bottom: 30px;
+
+}
+
+.parabmi {
+    margin-top: 15px;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.btn-align {
+    margin-top: 20px;
+    margin-left: 15px;
+    width: 220px;
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+
+
+.Uppersec-meet {
+
+    display: flex;
+    flex-direction: column;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    font-size: 48px;
+    margin-top: 88px;
+    text-align: center;
+
+}
+
+.Uppersec-meet>p {
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 14px;
+
+}
+
+.img-container-meet {
+
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    
+    background-color: rgba(255, 255, 255, 0.1);
+    margin-left: 200px;
+    
+    width: 1060px;
+    padding-left: 5px;
+    padding-bottom: 10px;
+    margin-top: 50px;
+    border-radius: 20px;
+    color: white;
+    font-size: 17px;
+    font-weight: normal;
+    height: 600px;
+
+}
+
+.imgbox {
+    margin-top: 13px;
+    height: 272px;
+    width: 326px;
+  border-radius:25px ;
+  padding: 8px;
+  
+ 
+}
+
+.upper-text{
+
+    height: 20px;
+    width: 20px;
+}
+.textup{
+    margin-top: -70px;
+    margin-left: 20px;
+}
+.textup>p{
+   color: rgba(255, 255, 255, 0.5);
+   font-size: 14px;
+   margin-left:5px;
+}
+
+.footerclass{
+    margin-top: 88px;
+color: white;
+display: flex;
+justify-content: space-around;
+gap: 10px;
+
+padding-top:66px ;
+}
+.fit{
+ color:rgba(230, 83, 60, 1) ;
+font-weight: 900;
+ font-size: 70px;
+ font-style: italic;
+ 
+}
+.text-of-footer{
+    color:rgba(255, 255, 255, 0.5);
+    font-size: 14px;
+}
+.fttxt{
+
+    margin-top:27px ;
+    color: rgba(255, 255, 255, 0.5);
+    display: flex;
+    flex-direction: column;
+    gap:14px;
+    
+}
+
+.lastfoot{
+
+    border-top: 2px solid rgba(255, 255, 255, 0.1);
+    color: rgba(255, 255, 255, 0.5);
+    font-size:20px;
+    font-weight: normal;
+    text-align: center;
+
+    margin-top: 79px;
+    margin-left: 190px;
+    margin-right: 190px;
+    padding: 36px 190px;
+}
+.ft{
+    background-color:rgba(255, 255, 255, 0.1) ;   
+}
+.alg1{
+    margin-left: 180px;
+}
+.alg3{
+
+    margin-right: 190px;
+}
+
+.off{
+    display: none;
+}
+
+
+
+
+
+@media screen and (max-width:576px) {
+
+
+
+
+
+
+    .hidebar{
+        
+
+      display: flex;
+  margin-top: -32px;
+  margin-left: 380px;
+
+       
+    }
+
+    .hidenav{
+        display: none;
+    }
+     
+    * {
+        margin: 0px 0px;
+    }
+
+    .Navbar-text {
+
+        display: hidden;
+
+    }
+
+
+    .shape {
+        font-size: 42px;
+
+    }
+
+    .great-vibes-regular {
+        font-size: 42px;
+    }
+
+    .para-text1 {
+
+        width: 350px;
+    }
+
+    .fitness {
+        margin-left: 20px;
+    }
+
+    .for-mobile-nav {
+        color: antiquewhite;
+    }
+
+    .shape-container {
+
+        display: flex;
+        flex-direction: column;
+        gap: 260px;
+        margin: 20px 10px;
+
+    }
+
+    .Navbar-text {
+        display: none;
+    }
+
+    .Navbar {
+        display: initial;
+
+    }
+
+    .img-sec {
+        margin-left: 40px;
+    }
+
+    #text-box1 {
+
+        background-color: rgba(255, 255, 255, 0.1);
+        margin-top: -280px;
+        margin-left: 210px;
+        width: 160px;
+        height: 80px;
+        border-radius: 12px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        backdrop-filter: blur(20px);
+    }
+
+    #text-box2 {
+
+        background-color: rgba(255, 255, 255, 0.1);
+        margin-top: -330px;
+        margin-left: 10px;
+        width: 130px;
+        height: 80px;
+        border-radius: 12px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        backdrop-filter: blur(20px);
+        width: 160px;
+
+    }
+
+    .h1 {
+        font-size: 20px;
+        font-weight: 900;
+        margin-left: -68px;
+    }
+
+
+    .p1 {
+        color: rgba(255, 255, 255, 0.65);
+        font-size: 10px;
+        font-weight: 400;
+        margin-left: 47px;
+        font-size: 12px;
+    }
+
+    .h2 {
+        margin-left: 40px;
+    }
+
+    .p3{
+
+        margin-left: -2px;
+        width: 120px;
+    }
+    .circle {
+
+        width: 35px;
+        height: 35px;
+
+        margin-left: -45px;
+    }
+
+    .btn-mbl {
+        display: flex;
+
+        gap: 5px;
+
+    }
+
+    .colored-btn {
+
+        color: white;
+        padding: 10px 40px;
+        width: 180px;
+        height: 80px;
+    }
+
