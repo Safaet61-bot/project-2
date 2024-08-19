@@ -725,4 +725,249 @@ font-weight: 900;
         width: 180px;
         height: 80px;
     }
+    .habit-section {
 
+        margin-top: 500px;
+    }
+
+    .habit-img-container {
+
+        grid-template-columns: repeat(1, 1fr);
+
+        margin-right: 80px;
+
+        margin-left: 110px;
+    }
+
+    
+
+    .display-flex-run {
+
+
+        flex-direction: column;
+
+        margin-top: 50px;
+        margin: 100px auto;
+        margin-left: 15px;
+        margin-right: 15px;
+        gap: 0px;
+
+        padding: 16px 40px;
+        border-radius: 18px;
+
+    }
+
+    .run-img-box {
+
+        margin-top: 40px;
+        width: 286px;
+        height: 175px;
+        border-radius: 15px;
+
+    }
+
+    .run-img-box1 {
+
+        border-top: 80px;
+    }
+
+    .btn-wdt {
+
+
+        width: 310px;
+    }
+
+   
+
+    .BMI-Top {
+
+
+        margin-left: 20px;
+    }
+
+    .section-of-bmi {
+
+
+        grid-template-columns: repeat(1, 1fr);
+
+        padding: 5px 3px;
+
+        margin: 0px;
+    }
+
+
+    .Calculator {
+
+        padding: 30px;
+    }
+
+
+    .BMI_text {
+
+        margin-left: 2px;
+        width: 350px;
+        margin-top: 30px;
+        font-size: 16px;
+
+    }
+
+    .aligner4 {
+        margin-left: -15px;
+    }
+
+    .box {
+
+        height: 40px;
+        width: 150px;
+        padding-left: 20px;
+
+
+    }
+
+    .box2 {
+        height: 50px;
+        width: 150px;
+        margin-left: 5px;
+
+    }
+
+    #forcebox {
+
+        margin-left: -188px;
+        width: 159px;
+    }
+
+    #forcebox2 {
+
+        margin-left: -188px;
+        width: 189px;
+
+    }
+
+    .box3 {
+        margin-left: 10px;
+        width: 365px;
+    }
+
+    .btn-align {
+
+        width: 200px;
+        height: 50px;
+    }
+
+    .test {
+        width: 200px;
+    }
+
+    .alinger {
+        width: 300px;
+    }
+
+    .alinger2 {
+        width: 300px;
+    }
+
+    .aligner4 {
+        width: 300px;
+    }
+
+    .clr {
+
+
+        width: 250px;
+
+    }
+
+
+
+    .img-container-meet {
+
+
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        
+        background-color: rgba(255, 255, 255, 0.1);
+        margin-left: 20px;
+        
+        width: 375px;
+        padding-left: 3px;
+        padding-right: 10px;
+        padding-bottom: 10px;
+        margin-top: 50px;
+        border-radius: 20px;
+        color: white;
+        font-size: 17px;
+        font-weight: normal;
+        height: 1433px;
+    
+    }
+
+    .imgbox {
+        margin-top: 13px;
+        height: auto;
+        width: 366px;
+      border-radius:25px ;
+      padding: 8px;
+      
+     
+  
+}
+.hider{
+    display: none;
+}
+
+
+.footerclass{
+    margin-top: 88px;
+color: white;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+gap: 10px;
+
+padding-top:66px ;
+}
+.alg1{
+    margin-left:15px;
+    margin-top: -20px;
+    margin-bottom: 20px;
+    
+}
+.alg1>p{
+
+    margin-left: 5px;
+    width: 350px;
+
+
+}
+.alg1>p>br{
+    display: none;
+}
+.alg11{
+    margin-left:17px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    
+
+}
+#tt{
+
+    font-size: 21px;
+
+}
+
+.lastfoot{
+
+
+    margin-top: 79px;
+    margin-left: 20px;
+   
+    padding: 36px 190px;
+
+}
+#l{
+
+width: 350px;
+margin-left: -175px;
+font-size: 15px;
+}}
